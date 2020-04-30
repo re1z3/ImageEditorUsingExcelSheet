@@ -1,0 +1,5 @@
+1. Open main.py
+2. Add excel sheet file and image file as per preference(in the same directory that is here).
+3. Now edit path variable and img variable as per prefernce.
+4. Carefully follow the comments section in main.py to run the script without any error.
+5. Enjoy
